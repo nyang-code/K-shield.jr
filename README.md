@@ -57,3 +57,9 @@
 ![image](https://github.com/nyang-code/K-shield.jr/assets/85928740/824128e9-0b94-4fd3-8969-c43bf20e63d5)
 
 ## 2.3 취약저 분석 상세 내역은 아래 pdf로 확인할 수 있다.
+
+[[결과보고서]A반_A_04조.pdf](https://github.com/user-attachments/files/15936736/A._A_04.pdf)
+
+>발표 ppt -> [A04 모의해킹 ppt_최종본.pptx](https://github.com/user-attachments/files/15936742/A04.ppt_.pptx)
+
+

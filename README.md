@@ -56,7 +56,7 @@
 >아래 표 2-2는 4.7.x 버전의 워드프레스에 설치된 플러그인이다.
 ![image](https://github.com/nyang-code/K-shield.jr/assets/85928740/824128e9-0b94-4fd3-8969-c43bf20e63d5)
 
-## 2.3 취약저 분석 상세 내역은 아래 pdf로 확인할 수 있다.
+## 2.3 취약점 분석 상세 내역은 아래 pdf로 확인할 수 있다.
 
 [[결과보고서]A반_A_04조.pdf](https://github.com/user-attachments/files/15936736/A._A_04.pdf)
 
